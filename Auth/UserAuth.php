@@ -1,9 +1,9 @@
 <?php
 
-class UserAuthenticate {
+class UserAuth {
 
-    private $validUser = "user";
-    private $validPass = "user123";
+    private $validUser = "Janu";
+    private $validPass = "Janu123";
 
     public function authenticate() {
 
