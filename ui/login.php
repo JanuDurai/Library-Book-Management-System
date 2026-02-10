@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Login</h2>
+
+<form method="post" action="login_action.php">
+    <input type="text" name="username" placeholder="Username" required>
+    <br><br>
+    <input type="password" name="password" placeholder="Password" required>
+    <br><br>
+    <button type="submit">Login</button>
+</form>
+
+</body>
+</html>
